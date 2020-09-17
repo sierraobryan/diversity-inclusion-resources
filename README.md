@@ -245,6 +245,16 @@ For better or for worse, conferences and meetups are really important for career
 
 [alexwlchan's ideas for inclusive/accessible events](https://alexwlchan.net/ideas-for-inclusive-events/)
 
+### Template 
 
+```
+### Title 
+Content Type 
+
+**Overview / Takaways**   
+Short despcription, overview, or main points of content to give context 
+
+[Visible Link Name](url)
+```
 
 
