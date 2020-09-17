@@ -2,7 +2,8 @@
 [General Hiring Practice](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources)  
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
-[Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)   
+[Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)     
+[Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template)
 
 ## General Hiring Resources 
 
@@ -245,7 +246,7 @@ For better or for worse, conferences and meetups are really important for career
 
 [alexwlchan's ideas for inclusive/accessible events](https://alexwlchan.net/ideas-for-inclusive-events/)
 
-### Template 
+## Template 
 
 ```
 ### Title 
