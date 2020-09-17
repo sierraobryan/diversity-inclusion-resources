@@ -16,7 +16,7 @@ Use a broad range of recruiting sources, Write inclusive job descriptions, Evalu
 **Overview**  
 A series of blog posts written because many people: HR managers, hiring managers, employees and teachers asked a simple question: if I want to improve the diversity in company / school, where do I start? What can I do? Broken into small episodes, each focused on a theme, this series of articles will feature ideas which worked or failed for companies in order for you to avoid reinventing the wheel pointlessly. It will highlight a significant list of references for you to deep dive into the D&I world.
 
-[The Subtle Art of Hiring a Diverse Workforce — Part I — Introduction](https://medium.com/@CarolineChavier/the-subtle-art-of-hiring-a-diverse-workforce-part-i-introduction-7936a8448f2c)
+[The Subtle Art of Hiring a Diverse Workforce — Part I — Introduction](https://medium.com/@CarolineChavier/the-subtle-art-of-hiring-a-diverse-workforce-part-i-introduction-7936a8448f2c)  
 [The Subtle Art of Hiring a Diverse Workforce — Part II — Unconscious Bias](https://medium.com/@CarolineChavier/the-subtle-art-of-hiring-a-diverse-workforce-part-ii-unconscious-bias-4b55c831b49f)
 
 ## Bias in Hiring Research (and more!) 
@@ -93,7 +93,7 @@ Tool
 **Usage**  
 This site is a quick way to check whether a job advert has the kind of subtle linguistic gender-coding that has this discouraging effect
 
-Gender Decoder: [find subtle bias in job ads](http://gender-decoder.katmatfield.com/)
+Gender Decoder: [find subtle bias in job ads](http://gender-decoder.katmatfield.com/)  
 Similar paid tool: [TapRecruit: Inclusive Job Descriptions and Recruiting Analytics](https://taprecruit.co/)
 
 ## Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality
@@ -145,7 +145,7 @@ Twitter Thread
 This question can cause your interviewee to relive past trauma while causing current trauma as they scramble to answer what could be a deeply personal question with a professional adequate answer. Many black women (and other underrepresented groups) leave because of toxic cultures.
 Better questions are “why are you interested in our company?” or about what did you like/dislike previous *technical* projects, languages, frameworks, etc. 
 
-https://twitter.com/bossnayamoss/status/1177650048101945344
+https://twitter.com/bossnayamoss/status/1177650048101945344  
 Similar thread https://twitter.com/mekkaokereke/status/1300451278720397313
 
 ## The Hidden meaning behind candidates questions
@@ -172,7 +172,7 @@ Article
 For this study, researchers conducted technical interviews where half of the study participants were given a conventional whiteboard technical interview (with an interviewer looking on) and other half of the participants were asked to solve their problem on a whiteboard in a private room. People who took the traditional interview performed half as well as people that were able to interview in private. 
 Recommendations: Use retrospective think-aloud for accessing explanation skills, evaluate the kinds of stress necessary for position, provide accessible alternatives
 
-[Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
+[Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)   
 Research paper: [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
 
 ## Debugging Hiring: What Went Right and What Went Wrong in the Technical Interview
@@ -205,7 +205,7 @@ Blog
 **Key takeaways**  
 Use your pronouns, create readable links, provide a link to accessible slides, spell out your abbreviations, use readable contrast, articulate alt text, don’t use vague language, content warnings (before gifs and otherwise), thoughtful use of slide animation, ensure the conference is accessible 
  
-[10 ways to help Accessibility at Conferences as a speaker]()
+[10 ways to help Accessibility at Conferences as a speaker](https://www.a11ywithlindsey.com/blog/accessibility-conferences)
 
 ## Inclusive Speaker Rider by Tatiana Mac
 Github Gist 
@@ -213,7 +213,7 @@ Github Gist
 **Overview**  
 A comprehensive list of inclusive and accessible considerations required by Tatiana Mac before they will potentially agree to speak at a conference which should serve as a guide on how to plan an accessible and inclusive conference. Considerations include accommodations / hosting (travel, lodging, honorarium), conference logistics (code of conduct, accessibility, diversity, safety, scholarship), and intellectual property.
 
-[Speaker Rider by Tatiana Mac]()
+[Speaker Rider by Tatiana Mac](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552)
 
 ## 4 autism-friendly event strategies that will benefit everyone at your next conference
 Blog
@@ -221,7 +221,7 @@ Blog
 **Key takeaways**  
 Provide quiet rooms and a quiet dining space during meals, Schedule more downtime and longer meal breaks, Livestream big presentations or speaker events online, Answer every question like it’s the first time someone has asked it.
 
-[4 autism-friendly event strategies that will benefit everyone at your next conference]()
+[4 autism-friendly event strategies that will benefit everyone at your next conference](https://technical.ly/2020/01/02/autism-friendly-event-strategies-that-will-benefit-everyone-conference-accessibility-inclusion/)
 
 ## Ten things to improve conference call accessibility
 Blog
@@ -229,7 +229,7 @@ Blog
 **Key takeaways**  
 Considerations for sound (use good equipment when possible, watch for background noise, try to ensure good internet connection throughout the call again when possible, captioning), considerations for vision (accessible materials available in advance, captioning), do disability - friendly activities 
 
-[Ten things to improve conference call accessibility | by Sheri Byrne-Haber, CPACC]()
+[Ten things to improve conference call accessibility | by Sheri Byrne-Haber, CPACC](https://medium.com/@sheribyrnehaber/ten-things-to-improve-conference-call-accessibility-4af6db5c8104)
 
 ## Ideas for Inclusive and Accessible Events by Alex W Chan 
 Blog
@@ -237,7 +237,7 @@ Blog
 **Overview**   
 For better or for worse, conferences and meetups are really important for career development. Sharing ideas, having conversations, meeting new people -- if you can't attend, you miss out on a lot of these opportunities.It's important to open these events to as wide a range of people as possible, and make them feel welcome when they attend. It addresses a serious source of unfairness, and everyone benefits from having a wider diversity of people and ideas.
 
-[alexwlchan's ideas for inclusive/accessible events]()
+[alexwlchan's ideas for inclusive/accessible events](https://alexwlchan.net/ideas-for-inclusive-events/)
 
 
 
