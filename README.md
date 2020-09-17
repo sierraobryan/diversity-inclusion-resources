@@ -1,3 +1,9 @@
+## Categories 
+[General Hiring Practice](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources)  
+[Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
+[Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
+[Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)   
+
 # General Hiring Resources 
 
 ## Hiring Practices 
