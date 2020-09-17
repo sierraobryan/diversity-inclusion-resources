@@ -6,7 +6,7 @@
 
 # General Hiring Resources 
 
-## Hiring Practices 
+### Hiring Practices 
 Project Include Recommendations
 
 **Overview of Project Include**  
