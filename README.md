@@ -4,7 +4,7 @@
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)   
 
-# General Hiring Resources 
+## General Hiring Resources 
 
 ### Hiring Practices 
 Project Include Recommendations
@@ -17,7 +17,7 @@ Use a broad range of recruiting sources, Write inclusive job descriptions, Evalu
 
 [Best Hiring Practices From Project Include](https://projectinclude.org/hiring)
 
-## The Subtle Art of Hiring a Diverse Workforce
+### The Subtle Art of Hiring a Diverse Workforce
 
 **Overview**  
 A series of blog posts written because many people: HR managers, hiring managers, employees and teachers asked a simple question: if I want to improve the diversity in company / school, where do I start? What can I do? Broken into small episodes, each focused on a theme, this series of articles will feature ideas which worked or failed for companies in order for you to avoid reinventing the wheel pointlessly. It will highlight a significant list of references for you to deep dive into the D&I world.
@@ -25,7 +25,7 @@ A series of blog posts written because many people: HR managers, hiring managers
 [The Subtle Art of Hiring a Diverse Workforce — Part I — Introduction](https://medium.com/@CarolineChavier/the-subtle-art-of-hiring-a-diverse-workforce-part-i-introduction-7936a8448f2c)  
 [The Subtle Art of Hiring a Diverse Workforce — Part II — Unconscious Bias](https://medium.com/@CarolineChavier/the-subtle-art-of-hiring-a-diverse-workforce-part-ii-unconscious-bias-4b55c831b49f)
 
-## Bias in Hiring Research (and more!) 
+### Bias in Hiring Research (and more!) 
 The Leaky Tech Pipeline Research
 
 **Overview of The Leaky Tech Pipeline**  
@@ -36,7 +36,7 @@ What factors contribute to the lack of diversity in the tech workforce? Biases i
 
 [The Leaky Pipeline: Bias in Hiring](https://leakytechpipeline.com/research/tech-workforce/#bias-in-hiring-anchor)
 
-## On improving Diversity in Hiring
+### On improving Diversity in Hiring
 Blog
 
 **Key takeaways**  
@@ -44,7 +44,7 @@ Don’t hire people into an environment they can’t be successful in. On a prac
 
 [On Improving Diversity in Hiring – Accidentally in Code](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/)
 
-## How to Cultivate a Recruiting Process and Workplace Where Diversity Thrives
+### How to Cultivate a Recruiting Process and Workplace Where Diversity Thrives
 Blog 
 
 **Key takeaways**  
@@ -52,7 +52,7 @@ Build relationships in the tech community, listen to your current employees and 
 
 [How to Cultivate a Recruiting Process and Workplace Where Diversity Thrives - Hatchpad](https://dmv.myhatchpad.com/insight/how-to-cultivate-a-recruiting-process-and-workplace-where-diversity-thrives/)
 
-## Atlassian Boosted Its Female Technical Hires By 80% — Here’s How
+### Atlassian Boosted Its Female Technical Hires By 80% — Here’s How
 
 **Key takeaways**  
 Drop the belief your company is a meritocracy. You have to start as early as possible — which is hopefully now. 
@@ -61,21 +61,21 @@ Advanced Strategies: Standardize evaluations, Judge on potential, Call out and c
 
 [Atlassian Boosted Its Female Technical Hires By 80% — Here’s How](https://firstround.com/review/atlassian-boosted-its-female-technical-hires-by-80-percent-heres-how/)
 
-## 5 lessons on Building a Diverse Company From the Start
+### 5 lessons on Building a Diverse Company From the Start
 
 **Key takeaways**  
 Make your interviews more inclusive, Don’t be elitist, Build a culture where everyone feels like they belong, Check the language in your job ads, Always reflect on what’s working and what’s not working
 
 [5 Lessons on Building a Diverse Company From the Start](https://www.producthunt.com/stories/5-lessons-on-building-a-diverse-company-from-the-start?ref=womenmake)
 
-## If Women Don’t Apply to Your Company, This Is Probably Why 
+### If Women Don’t Apply to Your Company, This Is Probably Why 
 
 **Key takeaways**  
 The signals your company sends about its culture greatly influence whether you are able to attract — or alienate — women. When deciding whether to join (or stay at) your company, candidates and employees may consciously or subconsciously pay attention to the following signals to gauge whether your workplace culture is one where they can thrive: The number of women and people of color in leadership roles, Narrow descriptors in job posts, Narrow descriptors in job posts, and Opportunities for development and mentorship. 
 
 [If Women Don't Apply to Your Company, This Is Probably Why](https://hbr.org/2019/10/if-women-dont-apply-to-your-company-this-is-probably-why)
 
-## Stop Hiring As If We’re In The Industrial Age
+### Stop Hiring As If We’re In The Industrial Age
 Podcast by Kim Crayton 
 
 **Abstract**  
@@ -83,9 +83,9 @@ Change is happening all around us, and yet, the tech industry continues to hire 
 
 [Stop Hiring As If We’re In The Industrial Age](https://hashtagcauseascene.com/podcast/stop-hiring-as-if-were-in-the-industrial-age/)
 
-# Job Post 
+## Job Post 
 
-## Not Applicable: What Your Job Post is Really Saying 
+### Not Applicable: What Your Job Post is Really Saying 
 Blog
 
 **Key takeaways**  
@@ -93,7 +93,7 @@ What the job listing says– and doesn’t say– plays a huge role in who appli
 
 [Not Applicable: What Your Job Post is Really Saying](https://blog.drafted.us/post/not-applicable-job-post-really-saying?utm_source=Diversify+Tech&utm_campaign=5e886f2fc1-Diversify_Tech_Business_Edition_36&utm_medium=email&utm_term=0_00b3f69566-5e886f2fc1-1271289002)
 
-## Gender Decoder for Job Ads 
+### Gender Decoder for Job Ads 
 Tool 
 
 **Usage**  
@@ -102,7 +102,7 @@ This site is a quick way to check whether a job advert has the kind of subtle li
 Gender Decoder: [find subtle bias in job ads](http://gender-decoder.katmatfield.com/)  
 Similar paid tool: [TapRecruit: Inclusive Job Descriptions and Recruiting Analytics](https://taprecruit.co/)
 
-## Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality
+### Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality
 Research Paper
 
 **Overview**  
@@ -110,9 +110,9 @@ The current research highlights one such institutional-level feature and demonst
 
 [Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gender-decoder.katmatfield.com/static/documents/Gaucher-Friesen-Kay-JPSP-Gendered-Wording-in-Job-ads.pdf)
 
-# Interviewing 
+## Interviewing 
 
-## Explain your Interview process 
+### Explain your Interview process 
 Twitter Thread 
 
 **Key takeaways**  
@@ -120,7 +120,7 @@ Transparency! Allow candidates to make informed decisions about how to spend the
 
 https://twitter.com/codeability/status/1178040208232607744
 
-## How to Fix your Interview to Increase Diversity 
+### How to Fix your Interview to Increase Diversity 
 Blog
 
 **Key takeaways**  
@@ -128,7 +128,7 @@ Start with empathy and respect, Be transparent, Hire junior developers, Don't Hi
 
 [How to Fix Your Tech Interview to Increase Diversity](https://www.diversifytech.co/blog/how-to-fix-tech-interview-to-increase-diversity)
 
-## How to Reduce Bias When Hiring Software Engineers Virtually 
+### How to Reduce Bias When Hiring Software Engineers Virtually 
 Blog
 
 **Key takeaways**  
@@ -136,7 +136,7 @@ Ensure your interview questions don’t have bias baked in, train your interview
 
 [How to Reduce Bias When Hiring Software Engineers Virtually](https://builtin.com/software-engineering-perspectives/bias-hiring-software-engineers)
 
-## Your Culture is Showing: How to Create a More Inclusive Interview Experience
+### Your Culture is Showing: How to Create a More Inclusive Interview Experience
 Blog
 
 **Key takeaways**  
@@ -144,7 +144,7 @@ Offer nursing mothers short breaks, Offer to reimburse for childcare, Provide op
 
 [Your Culture is Showing: How to Create a More Inclusive Interview Experience](https://medium.com/@dominiquedavis.sea/your-culture-is-showing-how-to-create-a-more-inclusive-interview-experience-8a9aae7319f8)
 
-## Don’t ask Black women why they left their last company 
+### Don’t ask Black women why they left their last company 
 Twitter Thread
 
 **Key takeaways**  
@@ -154,7 +154,7 @@ Better questions are “why are you interested in our company?” or about what 
 https://twitter.com/bossnayamoss/status/1177650048101945344  
 Similar thread https://twitter.com/mekkaokereke/status/1300451278720397313
 
-## The Hidden meaning behind candidates questions
+### The Hidden meaning behind candidates questions
 Blog
 
 **Key takeaways**  
@@ -162,7 +162,7 @@ On answering questions like 1) “How do I provide mentorship at our size” and
 
 [The hidden meaning behind candidates' questions](https://inclusionatwork.co/the-hidden-meaning/)
 
-## Stretch Opportunities 
+### Stretch Opportunities 
 Twitter thread
 
 **Key takeaways**  
@@ -171,7 +171,7 @@ While this thread is about promoting your juniors, it can also apply to the folk
 
 https://twitter.com/mekkaokereke/status/1218940982122577921
 
-## Tech Sector Job Interviews Assess Anxiety, Not Software Skills
+### Tech Sector Job Interviews Assess Anxiety, Not Software Skills
 Article
 
 **Overview**   
@@ -181,7 +181,7 @@ Recommendations: Use retrospective think-aloud for accessing explanation skills,
 [Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)   
 Research paper: [Does Stress Impact Technical Interview Performance?](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
 
-## Debugging Hiring: What Went Right and What Went Wrong in the Technical Interview
+### Debugging Hiring: What Went Right and What Went Wrong in the Technical Interview
 Research paper
 
 **Overview**  
@@ -192,7 +192,7 @@ Recruit widely and tailor communications to your candidates, Help candidates pre
 
 [Debugging Hiring: What Went Right and What Went Wrong in the Technical Interview Process](http://chrisparnin.me/pdf/Debugging-Hiring.pdf)
 
-## Hiring is Broken: What Do Developers Say About Technical Interviews?
+### Hiring is Broken: What Do Developers Say About Technical Interviews?
 Research Paper 
 
 **Overview**  
@@ -203,9 +203,9 @@ Use rudimentary questions for screening, Share the interview description in adva
 
 [Hiring is Broken: What Do Developers Say About Technical Interviews?](http://chrisparnin.me/pdf/interviews-HN.pdf)
 
-# Inclusive Events and Conference Guide
+## Inclusive Events and Conference Guide
 
-## 10 ways to help Accessibility at Conferences as a speaker
+### 10 ways to help Accessibility at Conferences as a speaker
 Blog
 
 **Key takeaways**  
@@ -213,7 +213,7 @@ Use your pronouns, create readable links, provide a link to accessible slides, s
  
 [10 ways to help Accessibility at Conferences as a speaker](https://www.a11ywithlindsey.com/blog/accessibility-conferences)
 
-## Inclusive Speaker Rider by Tatiana Mac
+### Inclusive Speaker Rider by Tatiana Mac
 Github Gist 
 
 **Overview**  
@@ -221,7 +221,7 @@ A comprehensive list of inclusive and accessible considerations required by Tati
 
 [Speaker Rider by Tatiana Mac](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552)
 
-## 4 autism-friendly event strategies that will benefit everyone at your next conference
+### 4 autism-friendly event strategies that will benefit everyone at your next conference
 Blog
 
 **Key takeaways**  
@@ -229,7 +229,7 @@ Provide quiet rooms and a quiet dining space during meals, Schedule more downtim
 
 [4 autism-friendly event strategies that will benefit everyone at your next conference](https://technical.ly/2020/01/02/autism-friendly-event-strategies-that-will-benefit-everyone-conference-accessibility-inclusion/)
 
-## Ten things to improve conference call accessibility
+### Ten things to improve conference call accessibility
 Blog
 
 **Key takeaways**  
@@ -237,7 +237,7 @@ Considerations for sound (use good equipment when possible, watch for background
 
 [Ten things to improve conference call accessibility | by Sheri Byrne-Haber, CPACC](https://medium.com/@sheribyrnehaber/ten-things-to-improve-conference-call-accessibility-4af6db5c8104)
 
-## Ideas for Inclusive and Accessible Events by Alex W Chan 
+### Ideas for Inclusive and Accessible Events by Alex W Chan 
 Blog
 
 **Overview**   
