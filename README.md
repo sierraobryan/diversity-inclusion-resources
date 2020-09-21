@@ -3,7 +3,10 @@
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)     
-[Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template)
+[Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
+
+### Introduction 
+I subscribe and follow a lot of folks who work really hard to make tech a more diverse and inclusive place and share valuable wisdom through threads, articles, newsletters, blogs, podcasts and more. Over time, it's too easy for those resources to fall further down my TL or get shuffled into old emails so I am trying to categorize and share a maintained list of those resources so that they are easy to find in the future.  
 
 ## General Hiring Resources 
 
