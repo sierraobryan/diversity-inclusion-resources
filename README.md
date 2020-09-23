@@ -6,7 +6,7 @@
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
 ### Introduction 
-I subscribe and follow a lot of folks who work really hard to make tech a more diverse and inclusive place and share valuable wisdom through threads, articles, newsletters, blogs, podcasts and more. Over time, it's too easy for those resources to fall further down my TL or get shuffled into old emails so I am trying to categorize and share a maintained list of those resources so that they are easy to find in the future.  
+I am a priviledged white woman without lived experiencesand I care a lot about DE&I in tech. Because of this, I am always trying to learn more from the experts. I follow, subscribe to, and learn a lot from so many smart folks who dedicate their lives and work to making tech a more diverse and inclusive place and share valuable wisdom through their content, whether that be twitter threads, articles, newsletters, blogs, podcasts and more. This is a psuedo organized, categorized, and maintained list of those resources they share which I have found eyeopening, helpful, interesting and important so that they are easy to find in the future (it's too easy for those resources to fall further down my TL or get shuffled into old emails and lost forever in the internet void) to continue my own journey to driving impactful change in tech. 
 
 ## General Hiring Resources 
 
