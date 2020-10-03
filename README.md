@@ -3,7 +3,7 @@
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)  
-[Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)
+[Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
 ### Introduction 
@@ -252,7 +252,7 @@ For better or for worse, conferences and meetups are really important for career
 
 ### Where do I get these resources?
 
-I follow a lot of really smart folks on [Twitter](https://twitter.com/_sierraobryan), I subscribe to the [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/) of [Diversify Tech](https://www.diversifytech.co/), I’m a member of [Tech Ladies](https://www.hiretechladies.com/) and there are a lot of great articles posted on in their [Facebook group](), I’m part of [Elpha](https://elpha.com), I subscribed to the [Black Tech Pipeline](https://blacktechpipeline.com/) newsletter
+I follow a lot of really smart folks on [Twitter](https://twitter.com/_sierraobryan), I subscribe to the [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/) of [Diversify Tech](https://www.diversifytech.co/), I’m a member of [Tech Ladies](https://www.hiretechladies.com/) and there are a lot of great articles posted on in their [Facebook group](https://www.facebook.com/groups/techladies), I’m part of [Elpha](https://elpha.com), I subscribed to the [Black Tech Pipeline](https://blacktechpipeline.com/) newsletter
 
 ## Template 
 
