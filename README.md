@@ -149,6 +149,16 @@ Offer nursing mothers short breaks, Offer to reimburse for childcare, Provide op
 
 [Your Culture is Showing: How to Create a More Inclusive Interview Experience](https://medium.com/@dominiquedavis.sea/your-culture-is-showing-how-to-create-a-more-inclusive-interview-experience-8a9aae7319f8)
 
+### Technical Interviews – An Instrument of Exclusion and Discrimination
+Blog 
+
+**Key takeaways** 
+An argument for abolishing the technical interview - the blog bebunks some long standing myths about hiring developers using a technical interview with the final take away: "[N]ot everyone came from a privileged engineering background like yourself, and you shouldn’t judge someone based on their background alone/ Technical interviews allow you to be exclusionary without even realizing it."
+
+People are wonderfully diverse, don’t be so closed minded.
+
+[Technical Interviews – An Instrument of Exclusion and Discrimination](https://careerconservatory.com/technical-interviews-an-instrument-of-exclusion-and-discrimination/)
+
 ### Don’t ask Black women why they left their last company 
 Twitter Thread
 
