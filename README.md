@@ -153,9 +153,7 @@ Offer nursing mothers short breaks, Offer to reimburse for childcare, Provide op
 Blog 
 
 **Key takeaways** 
-An argument for abolishing the technical interview - the blog bebunks some long standing myths about hiring developers using a technical interview with the final take away: "[N]ot everyone came from a privileged engineering background like yourself, and you shouldn’t judge someone based on their background alone/ Technical interviews allow you to be exclusionary without even realizing it."
-
-People are wonderfully diverse, don’t be so closed minded.
+An argument for abolishing the technical interview - the blog bebunks some long standing myths about hiring developers using a technical interview with the final take away: "[N]ot everyone came from a privileged engineering background like yourself, and you shouldn’t judge someone based on their background alone/ Technical interviews allow you to be exclusionary without even realizing it. People are wonderfully diverse, don’t be so closed minded." 
 
 [Technical Interviews – An Instrument of Exclusion and Discrimination](https://careerconservatory.com/technical-interviews-an-instrument-of-exclusion-and-discrimination/)
 
