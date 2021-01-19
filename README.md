@@ -3,7 +3,7 @@
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)  
-[Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
+[General Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
 ### Introduction 
