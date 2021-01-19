@@ -1,13 +1,17 @@
 ## Categories 
+[General Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
 [General Hiring Practice](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources)  
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)  
-[General Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
 ### Introduction 
 I am a priviledged white woman without lived experiencesand I care a lot about DE&I in tech. Because of this, I am always trying to learn more from the experts. I follow, subscribe to, and learn a lot from so many smart folks who dedicate their lives and work to making tech a more diverse and inclusive place and share valuable wisdom through their content, whether that be twitter threads, articles, newsletters, blogs, podcasts and more. This is a psuedo organized, categorized, and maintained list of those resources they share which I have found eyeopening, helpful, interesting and important so that they are easy to find in the future (it's too easy for those resources to fall further down my TL or get shuffled into old emails and lost forever in the internet void) to continue my own journey to driving impactful change in tech. 
+
+### Where do I get these resources?
+
+I follow a lot of really smart folks on [Twitter](https://twitter.com/_sierraobryan), I subscribe to the [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/) of [Diversify Tech](https://www.diversifytech.co/), I’m a member of [Tech Ladies](https://www.hiretechladies.com/) and there are a lot of great articles posted on in their [Facebook group](https://www.facebook.com/groups/techladies), I’m part of [Elpha](https://elpha.com), I subscribed to the [Black Tech Pipeline](https://blacktechpipeline.com/) newsletter
 
 ## General Hiring Resources 
 
@@ -286,10 +290,6 @@ Blog by Alex W. Chan
 For better or for worse, conferences and meetups are really important for career development. Sharing ideas, having conversations, meeting new people -- if you can't attend, you miss out on a lot of these opportunities.It's important to open these events to as wide a range of people as possible, and make them feel welcome when they attend. It addresses a serious source of unfairness, and everyone benefits from having a wider diversity of people and ideas.
 
 [alexwlchan's ideas for inclusive/accessible events](https://alexwlchan.net/ideas-for-inclusive-events/)
-
-### Where do I get these resources?
-
-I follow a lot of really smart folks on [Twitter](https://twitter.com/_sierraobryan), I subscribe to the [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/) of [Diversify Tech](https://www.diversifytech.co/), I’m a member of [Tech Ladies](https://www.hiretechladies.com/) and there are a lot of great articles posted on in their [Facebook group](https://www.facebook.com/groups/techladies), I’m part of [Elpha](https://elpha.com), I subscribed to the [Black Tech Pipeline](https://blacktechpipeline.com/) newsletter
 
 ## Template 
 
