@@ -102,7 +102,7 @@ Change is happening all around us, and yet, the tech industry continues to hire 
 ## Job Post 
 
 ### Not Applicable: What Your Job Post is Really Saying 
-Blog
+Blog by Coraline Ada Ehmke 
 
 **Key takeaways**  
 What the job listing says– and doesn’t say– plays a huge role in who applies for the job. Typical postings use dynamic, action-oriented verbs combined with generous helpings of industry jargon and endless lists of requirements. This language attracts a very specific type of job seeker. Often, for others, the message is “You don’t belong here.” How to rewrite your job posting with inclusive and welcoming language.
@@ -173,12 +173,14 @@ Offer nursing mothers short breaks, Offer to reimburse for childcare, Provide op
 Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)
 
 ### Technical Interviews – An Instrument of Exclusion and Discrimination
-Blog 
+Blog by Chris 
 
 **Key takeaways** 
 An argument for abolishing the technical interview - the blog bebunks some long standing myths about hiring developers using a technical interview with the final take away: "[N]ot everyone came from a privileged engineering background like yourself, and you shouldn’t judge someone based on their background alone. Technical interviews allow you to be exclusionary without even realizing it. People are wonderfully diverse, don’t be so closed minded." 
 
-[Technical Interviews – An Instrument of Exclusion and Discrimination](https://careerconservatory.com/technical-interviews-an-instrument-of-exclusion-and-discrimination/)
+[Technical Interviews – An Instrument of Exclusion and Discrimination](https://careerconservatory.com/technical-interviews-an-instrument-of-exclusion-and-discrimination/)  
+
+Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)
 
 ### Don’t ask Black women why they left their last company 
 Twitter Thread by Naya Moss
