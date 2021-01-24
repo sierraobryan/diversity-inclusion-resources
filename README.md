@@ -2,7 +2,9 @@
 [General Resources](https://github.com/sierraobryan/diversity-inclusion-resources#where-do-i-get-these-resources)  
 [General Hiring Practice](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources)  
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
-[Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)    
+[Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)   
+[Job Boards](https://github.com/sierraobryan/diversity-inclusion-resources#job-boards) 
+[Onboarding](https://github.com/sierraobryan/diversity-inclusion-resources#onboarding) 
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)  
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
@@ -101,7 +103,15 @@ Podcast by Kim Crayton
 **Abstract**  
 Change is happening all around us, and yet, the tech industry continues to hire developers and build teams that are still stuck in the Industrial Age matrix. Everyone is sick and tired of being asked, "Are you technical?" Wake up! We are in the Information Age where diversity and inclusion is now part of smart business planning. Shed the outdated silo thinking that developers are only responsible for code. Success in today’s knowledge economy requires that all team members understand how every decision impacts business leaders ability to innovate, differentiate, and gain competitive advantage.
 
-[Stop Hiring As If We’re In The Industrial Age](https://hashtagcauseascene.com/podcast/stop-hiring-as-if-were-in-the-industrial-age/)
+[Stop Hiring As If We’re In The Industrial Age](https://hashtagcauseascene.com/podcast/stop-hiring-as-if-were-in-the-industrial-age/)  
+
+### What you need to know to hire in 2021 
+Twitter Thread by Ashraf Abed   
+
+**Key takeaways**    
+Space out your initial interviews, improve every week, don't interview at your dream job(s) first, do multiple interviews in quick succession, most interviewers aren't prepare, redirect questions you can't answer, portofios matter, accomplishments, remember why, and more.   
+
+[Twitter Thread](https://twitter.com/ashabed/status/1353353770680414210)    
 
 ## Job Post 
 
@@ -248,6 +258,35 @@ A study from North Carolina State University  and Microsoft found that many deve
 Use rudimentary questions for screening, Share the interview description in advance, Offer alternative interview formats, Use a real problem, Solve problems as colleagues, not as examiners.
 
 [Hiring is Broken: What Do Developers Say About Technical Interviews?](http://chrisparnin.me/pdf/interviews-HN.pdf)
+
+## Job Boards 
+
+[Diversify Tech](https://www.diversifytech.co/post-a-job/)  
+[Women Who Code](https://www.womenwhocode.com/companies)  
+[Hire Tech Ladies](https://www.hiretechladies.com/partners/)   
+[Black Tech Pipeline](https://airtable.com/shrMZCJIGqqRcn45Y)  
+[Elpha](https://elpha.com/companies/partnerships)   
+[include](https://www.include.io/for-companies)  
+[Diversity](https://diversity.com/)  
+[Diveristy Jobs](https://www.diversityjobs.com/)  
+
+## Onboarding 
+
+### Onboarding: How to give new hires a soft landing  
+Blog by Helen Anderson   
+
+**Key takeaways**    
+A great overview of onboarding - starting with stategy and reviewing important questions to answer: why are you here? (announcing arrival, team purpose, success metrics), who do you work with? (assign a buddy, take a tour, meet and greets, catch-ups with context), how does work get done? (process and workflows, team documentation, style guide), who owns what? (tooling, can I have?), and ending with further reading.   
+
+[Onboarding: How to give new hires a soft landing](https://dev.to/helenanders26/onboarding-how-to-give-new-hires-a-soft-landing-39k8)
+
+### Onboarding a junior developer to your team? Here's 12 Tips  
+Blog by Carolyn Stransky   
+
+**Key takeaways**    
+Distinguish between opinions and best practices, dedicate time early for Git command, hve something for them to work on, give constructive code reviews, practice pair programming, pair on things that aren't code, always be available for questions, get them a buddy or mentor, learn their learning style, respect their time, provide regular feedback, show humility yourself.   
+
+[Onboarding a junior developer to your team? Here's 12 Tips ](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
 
 ## Inclusive Events and Conference Guide
 
