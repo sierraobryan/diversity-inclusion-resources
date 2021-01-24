@@ -3,8 +3,8 @@
 [General Hiring Practice](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources)  
 [Job Postings](https://github.com/sierraobryan/diversity-inclusion-resources#job-post)   
 [Interviewing](https://github.com/sierraobryan/diversity-inclusion-resources#interviewing)   
-[Job Boards](https://github.com/sierraobryan/diversity-inclusion-resources#job-boards) 
-[Onboarding](https://github.com/sierraobryan/diversity-inclusion-resources#onboarding) 
+[Job Boards](https://github.com/sierraobryan/diversity-inclusion-resources#job-boards)   
+[Onboarding](https://github.com/sierraobryan/diversity-inclusion-resources#onboarding)      
 [Planning Inclusive Events](https://github.com/sierraobryan/diversity-inclusion-resources#inclusive-events-and-conference-guide)  
 [Template](https://github.com/sierraobryan/diversity-inclusion-resources/blob/master/README.md#template) 
 
