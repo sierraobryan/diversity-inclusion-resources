@@ -142,7 +142,20 @@ Research Paper
 **Overview**  
 The current research highlights one such institutional-level feature and demonstrates its potential impact on judgments relevant to the maintenance of inequality. In doing so, it provides useful advances for our understanding of gender inequality in the workforce. But beyond that, we hope it highlights the power of looking to features of the social structure— especially those that may easily go unnoticed—in helping social psychologists uncover the ways in which social inequality is created, reinforced, and ultimately maintained. (Selected from the paper) 
 
-[Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gender-decoder.katmatfield.com/static/documents/Gaucher-Friesen-Kay-JPSP-Gendered-Wording-in-Job-ads.pdf)
+[Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality](http://gender-decoder.katmatfield.com/static/documents/Gaucher-Friesen-Kay-JPSP-Gendered-Wording-in-Job-ads.pdf)   
+
+## Job Boards 
+
+Paid job boards to post your jobs   
+
+[Diversify Tech](https://www.diversifytech.co/post-a-job/)  
+[Women Who Code](https://www.womenwhocode.com/companies)  
+[Hire Tech Ladies](https://www.hiretechladies.com/partners/)   
+[Black Tech Pipeline](https://airtable.com/shrMZCJIGqqRcn45Y)  
+[Elpha](https://elpha.com/companies/partnerships)   
+[include](https://www.include.io/for-companies)  
+[Diversity](https://diversity.com/)  
+[Diveristy Jobs](https://www.diversityjobs.com/)     
 
 ## Interviewing 
 
@@ -258,19 +271,6 @@ A study from North Carolina State University  and Microsoft found that many deve
 Use rudimentary questions for screening, Share the interview description in advance, Offer alternative interview formats, Use a real problem, Solve problems as colleagues, not as examiners.
 
 [Hiring is Broken: What Do Developers Say About Technical Interviews?](http://chrisparnin.me/pdf/interviews-HN.pdf)
-
-## Job Boards 
-
-Paid job boards to post your jobs   
-
-[Diversify Tech](https://www.diversifytech.co/post-a-job/)  
-[Women Who Code](https://www.womenwhocode.com/companies)  
-[Hire Tech Ladies](https://www.hiretechladies.com/partners/)   
-[Black Tech Pipeline](https://airtable.com/shrMZCJIGqqRcn45Y)  
-[Elpha](https://elpha.com/companies/partnerships)   
-[include](https://www.include.io/for-companies)  
-[Diversity](https://diversity.com/)  
-[Diveristy Jobs](https://www.diversityjobs.com/)  
 
 ## Onboarding 
 
