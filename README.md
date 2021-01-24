@@ -261,7 +261,7 @@ Use rudimentary questions for screening, Share the interview description in adva
 
 ## Job Boards 
 
-Paid job board to post your jobs   
+Paid job boards to post your jobs   
 
 [Diversify Tech](https://www.diversifytech.co/post-a-job/)  
 [Women Who Code](https://www.womenwhocode.com/companies)  
