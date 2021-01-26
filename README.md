@@ -290,7 +290,15 @@ Distinguish between opinions and best practices, dedicate time early for Git com
 
 [Onboarding a junior developer to your team? Here's 12 Tips ](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
 
-## Inclusive Events and Conference Guide
+## Inclusive Events and Conference Guide  
+
+### IDEAs in Action: Inclusive Meetings & Events 
+Toolkits   
+
+**Overview**   
+Tool kits from IDEA (Inclusion Diversity Equity Accountablity) for running effect and inclusive in person and remote meetings and events. Further reading also linked.    
+
+[IDEAs in Action: Inclusive Meetings & Events](https://ideas-in-action.lbl.gov/topics/inclusive-meetings-events)  
 
 ### 10 ways to help Accessibility at Conferences as a speaker
 Blog by Lindsey Kope
