@@ -209,6 +209,16 @@ An argument for abolishing the technical interview - the blog bebunks some long 
 
 Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)
 
+### Why I Don’t Have Time For Your Coding Challenge  
+Blog on CSS { In Real Life }   
+
+**Key takeaways** 
+Coding Challenges are time-consuming, counter-productive and arbitrary. Consider these alternatives to a coding challenge: ask pertinent questions (and trust in the answers), have a probationary period, walk through their existing projects, ask them to build something they enjoy, pair program and focus on their ability to learn.    
+
+[Why I Don’t Have Time For Your Coding Challenge](https://css-irl.info/why-i-dont-have-time-for-your-coding-challenge)   
+
+Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)   
+
 ### Don’t ask Black women why they left their last company 
 Twitter Thread by Naya Moss
 
