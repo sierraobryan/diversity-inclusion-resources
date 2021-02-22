@@ -159,6 +159,16 @@ Paid job boards to post your jobs
 
 ## Interviewing 
 
+### NOT THE PIPELINE Quiz 
+Quiz by Jessica Solka    
+
+**Overview**  
+How do you craft an interview process that accurately assesses a candidate's skill level while ensuring you're not eliminating qualified candidates? Take this 5 minute quiz and get actionable recommendations to improve your technical interview.
+
+[NOT THE PIPLINE Quiz](https://notthepipeline.com/)   
+
+Upvote on [Product Hunt](https://www.producthunt.com/posts/not-the-pipeline)   
+
 ### Explain your Interview process 
 Twitter Thread by EJ Mason
 
