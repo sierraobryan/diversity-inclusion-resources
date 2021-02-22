@@ -68,7 +68,14 @@ Build relationships in the tech community, listen to your current employees and 
 
 [How to Cultivate a Recruiting Process and Workplace Where Diversity Thrives - Hatchpad](https://dmv.myhatchpad.com/insight/how-to-cultivate-a-recruiting-process-and-workplace-where-diversity-thrives/)  
 
-Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/) 
+Credit [Business & Ally Newsletter](https://www.diversifytech.co/business-ally-newsletter/)   
+
+### Hire More Women In Tech   
+
+**Key takeaways**  
+An overview of why it is important to hire more women and non-binary people and tech and actionable steps you can take - these include re-evaluating your job post descriptions, treating your current employees well, diversity in the hiring process and recruiting better. This site also offers an incomplete but very helpful list of women's tech communitys, an incomplete but very help list of folks highlighting diversity, inclusion, and jobs, and more resources - how to hire women, accounts of being a woman in tech, research, and more.   
+
+[Hire More Women In Tech](https://www.hiremorewomenintech.com/)   
 
 ### Atlassian Boosted Its Female Technical Hires By 80% — Here’s How
 
